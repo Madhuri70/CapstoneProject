@@ -1,0 +1,11 @@
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\bin\Debug\net6.0\BlogLib.deps.json
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\bin\Debug\net6.0\BlogLib.dll
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\bin\Debug\net6.0\BlogLib.pdb
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.AssemblyInfoInputs.cache
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.AssemblyInfo.cs
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.csproj.CoreCompileInputs.cache
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.dll
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\refint\BlogLib.dll
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\BlogLib.pdb
+C:\Users\Madhu\source\repos\Blog_Tracker\BlockLib\obj\Debug\net6.0\ref\BlogLib.dll
